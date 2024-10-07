@@ -16,16 +16,19 @@
 04 |Võ Quốc Khái      |Đang học CK1 HSCC|0829.145.072 |13/12/1995|Trung Cang-Tân Trung  |Trung Cang-Tân Trung |096095002243|14/8/2021 |voquockhai97@gmail.com          |O|9622087035
 05 | Nguyễn Văn Cường |CN               |0942.404.260 |02/9/1986 |Tân Điền B-TAK        |Tân Thành B-TAK Nam  |096086005744|16/09/2021|nguyenvancuong02091986@gmail.com|A|9610002051|ĐD Trưởng khoa| 
 06 | Dương Mỹ Phúc    | CN              |0944.760.272 |22/01/1990|Hiệp Hòa-Ngọc Chánh   |Hiệp Hòa-Ngọc Chánh  |096190005625|12/08/2021|phucthidd@gmail.com             |O|9614006237||  
-07 | Võ Cẩm Chiêu     | CN              |0829.269.965 |27/7/1992 |Mương Điều B-TAK      |Mương Điều B - TAK   |096192010822|14/08/2021|chieuvo.27071993@gmail.com      |B|9616010866| |  
+07 | Lê Minh Trí      | CĐ ĐD           |0913.474.482 |01/01/1991|Tân Phú-Tân Trung     |Tân Thới B- TAK Đông |096091002727|14/08/2021| tri0009minh@gmail.com          |O|9622063302||   
 08 | Thang Hoa Xuân   | CN              |0945.207.475 |01/01/1993|Nhị Nguyệt-Trần Phán  |Nhị Nguyệt-Trần Phán |096193000787|21/04/2021| hoaxuan696@gmail.com           |B|9614006353|Tổ trưởng tổ công đoàn| 
 09 | Mai Việt Khái    | CN              |0915.182.871 |06/5/1992 |Đồng Tâm A-Tân Duyệt  |Đồng Tâm A-Tân Duyệt |096092009916|16/09/2021|cnmaikhai@gmail.com             |B|9615002045| |  
 10 | Phạm Thùy Trang  | CĐ ĐD           |0834.600.101 |16/02/1992|Ấp Tân Đức–Xã Tân Đức |Thành Vọng-ân Trung  |096192014804|14/08/2021| Phamthuytrang9999@gmail.com    |A|9615006548||
-11 | Nguyễn Vũ Linh   | CN              |0888.620.057 |06/3/1990 |290 Ấp 10A Xã Trần Hợi|Phường 8-Tp Cà Mau   |096090008258|21/11/2021|Linhnhi060703@gmail.com         |B|9614006204| |  
-12 | Lê Minh Trí      | CĐ ĐD           |0913.474.482 |01/01/1991|Tân Phú-Tân Trung     |Tân Thới B- TAK Đông |096091002727|14/08/2021| tri0009minh@gmail.com          |O|9622063302||  
-13 | Dương Minh Toàn  | CĐ ĐD           |0943.797.398 |21/5/1991 |Xóm Dừa - Quách Phẩm  |Xóm Dừa - Quách Phẩm |096091012641|11/08/2021|ysyduongminhtoan@gmail.com      |A|9622133221| |  
-14 | Dương Diễm Hương | CĐ ĐD           |0948.938.830 |28/8/1993 |Tân Hồng-TAK Nam      |Mương Điều B - TAK   |096193011866|16/09/2021|hduongdiem@gmail.com            |O|9616007988||
-15 | Phan Kiều My | CN                  |0944.308.661 |29/8/2000 |Tân Thành-Tân Duyệt   |Tân Thành-Tân Duyệt  |096300004305|18//11/2021|phankieumy053@gmail.com|O|
-16 | Hồ Thị Hằng      | Hộ Lý           |
+11 | Dương Minh Toàn  | CĐ ĐD           |0943.797.398 |21/5/1991 |Xóm Dừa - Quách Phẩm  |Xóm Dừa - Quách Phẩm |096091012641|11/08/2021|ysyduongminhtoan@gmail.com      |A|9622133221| |   
+12 | Dương Diễm Hương | CĐ ĐD           |0948.938.830 |28/8/1993 |Tân Hồng-TAK Nam      |Mương Điều B - TAK   |096193011866|16/09/2021|hduongdiem@gmail.com            |O|9616007988||
+13 | Phan Kiều My     | CN              |0944.308.661 |29/8/2000 |Tân Thành-Tân Duyệt   |Tân Thành-Tân Duyệt  |096300004305|18/11/2021|phankieumy053@gmail.com         |O| 
+14 | Lâm Kim Chi      | ĐD              |0947.144.884 |25/2/1990 |Tam Giang Tây-Ngọc Hiển|Tân Long B-Tân Dân  |096190014700|13/08/2021|chilam.01071990@gmail.com       |A| 
+15 | Hồ Thị Hằng      | Hộ Lý           |
+16 | ~~Võ Cẩm Chiêu~~ | CN              |0829.269.965 |27/7/1992 |Mương Điều B-TAK      |Mương Điều B - TAK   |096192010822|14/08/2021|chieuvo.27071993@gmail.com      |B|9616010866| |  
+17 |~~Nguyễn Vũ Linh~~| CN              |0888.620.057 |06/3/1990 |290 Ấp 10A Xã Trần Hợi|Phường 8-Tp Cà Mau   |096090008258|21/11/2021|Linhnhi060703@gmail.com         |B|9614006204| |  
+
+
 
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 - [Năm 2023](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
