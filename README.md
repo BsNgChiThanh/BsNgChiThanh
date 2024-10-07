@@ -24,7 +24,7 @@
 12 | Dương Diễm Hương | CĐ ĐD           |0948.938.830 |28/8/1993 |Tân Hồng-TAK Nam      |Mương Điều B - TAK   |096193011866|16/09/2021|hduongdiem@gmail.com            |O|9616007988||
 13 | Phan Kiều My     | CN              |0944.308.661 |29/8/2000 |Tân Thành-Tân Duyệt   |Tân Thành-Tân Duyệt  |096300004305|18/11/2021|phankieumy053@gmail.com         |O| 
 14 | Lâm Kim Chi      | ĐD              |0947.144.884 |25/2/1990 |Tam Giang Tây-Ngọc Hiển|Tân Long B-Tân Dân  |096190014700|13/08/2021|chilam.01071990@gmail.com       |A| 
-15 | Hồ Thị Hằng      | Hộ Lý           |
+15 | Hồ Thị Hằng      | Hộ Lý           |0854.722.383 | 
 16 | ~~Võ Cẩm Chiêu~~ | CN              |0829.269.965 |27/7/1992 |Mương Điều B-TAK      |Mương Điều B - TAK   |096192010822|14/08/2021|chieuvo.27071993@gmail.com      |B|9616010866| |  
 17 |~~Nguyễn Vũ Linh~~| CN              |0888.620.057 |06/3/1990 |290 Ấp 10A Xã Trần Hợi|Phường 8-Tp Cà Mau   |096090008258|21/11/2021|Linhnhi060703@gmail.com         |B|9614006204| |  
 
