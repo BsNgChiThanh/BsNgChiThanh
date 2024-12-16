@@ -1,3 +1,5 @@
+![Logo BV Đầm Dơi](https://github.com/user-attachments/assets/0c32c844-900b-40cc-87a4-0042bdc7e352)
+
 # [KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI](https://bsthanh-my.sharepoint.com/:v:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EZtBPyyybntDqaf4DdBaHcAB9KR79fRxcm2fk8-BVeFDKQ?e=Cd3DI6) #
 
 - **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ESeUhCiSOv5OmJeeGK2MIFcBGisBolfrZrjEoIE4Eay0sg?e=HDsx88)**
