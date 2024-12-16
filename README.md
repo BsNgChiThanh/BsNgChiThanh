@@ -1,4 +1,4 @@
-# KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI #
+# [KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI](https://bsthanh-my.sharepoint.com/:v:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EZtBPyyybntDqaf4DdBaHcAB9KR79fRxcm2fk8-BVeFDKQ?e=Cd3DI6) #
 
 - **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ESeUhCiSOv5OmJeeGK2MIFcBGisBolfrZrjEoIE4Eay0sg?e=HDsx88)**
 - **[Qui chế CC-HSTC-CĐ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EaddbcVYq85MpvGzDiCgAnQBvE2O7Mww76drLrtgwH-TKQ?e=bMzf1A)**
